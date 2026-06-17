@@ -6,5 +6,13 @@
       "date": "6/17/2026",
       "id": 1
     }
+  ],
+  "users": [
+    {
+      "username": "swarajcn",
+      "email": "swarajcn774@gmail.com",
+      "password": "12345678",
+      "id": 1
+    }
   ]
 }
